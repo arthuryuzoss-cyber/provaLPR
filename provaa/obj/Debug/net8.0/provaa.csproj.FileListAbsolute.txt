@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\provaLPR\provaa\bin\Debug\net8.0\provaa.exe
+C:\Users\Alunos\Desktop\provaLPR\provaa\bin\Debug\net8.0\provaa.deps.json
+C:\Users\Alunos\Desktop\provaLPR\provaa\bin\Debug\net8.0\provaa.runtimeconfig.json
+C:\Users\Alunos\Desktop\provaLPR\provaa\bin\Debug\net8.0\provaa.dll
+C:\Users\Alunos\Desktop\provaLPR\provaa\bin\Debug\net8.0\provaa.pdb
+C:\Users\Alunos\Desktop\provaLPR\provaa\obj\Debug\net8.0\provaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\provaLPR\provaa\obj\Debug\net8.0\provaa.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\provaLPR\provaa\obj\Debug\net8.0\provaa.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\provaLPR\provaa\obj\Debug\net8.0\provaa.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\provaLPR\provaa\obj\Debug\net8.0\provaa.dll
+C:\Users\Alunos\Desktop\provaLPR\provaa\obj\Debug\net8.0\refint\provaa.dll
+C:\Users\Alunos\Desktop\provaLPR\provaa\obj\Debug\net8.0\provaa.pdb
+C:\Users\Alunos\Desktop\provaLPR\provaa\obj\Debug\net8.0\provaa.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\provaLPR\provaa\obj\Debug\net8.0\ref\provaa.dll
